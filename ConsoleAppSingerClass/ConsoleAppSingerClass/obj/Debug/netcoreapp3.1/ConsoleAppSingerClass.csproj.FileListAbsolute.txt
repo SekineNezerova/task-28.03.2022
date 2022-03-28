@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\ConsoleAppSingerClass\ConsoleAppSingerClass\bin\Debug\netcoreapp3.1\ConsoleAppSingerClass.exe
+C:\Users\User\source\repos\ConsoleAppSingerClass\ConsoleAppSingerClass\bin\Debug\netcoreapp3.1\ConsoleAppSingerClass.deps.json
+C:\Users\User\source\repos\ConsoleAppSingerClass\ConsoleAppSingerClass\bin\Debug\netcoreapp3.1\ConsoleAppSingerClass.runtimeconfig.json
+C:\Users\User\source\repos\ConsoleAppSingerClass\ConsoleAppSingerClass\bin\Debug\netcoreapp3.1\ConsoleAppSingerClass.runtimeconfig.dev.json
+C:\Users\User\source\repos\ConsoleAppSingerClass\ConsoleAppSingerClass\bin\Debug\netcoreapp3.1\ConsoleAppSingerClass.dll
+C:\Users\User\source\repos\ConsoleAppSingerClass\ConsoleAppSingerClass\bin\Debug\netcoreapp3.1\ConsoleAppSingerClass.pdb
+C:\Users\User\source\repos\ConsoleAppSingerClass\ConsoleAppSingerClass\obj\Debug\netcoreapp3.1\ConsoleAppSingerClass.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ConsoleAppSingerClass\ConsoleAppSingerClass\obj\Debug\netcoreapp3.1\ConsoleAppSingerClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ConsoleAppSingerClass\ConsoleAppSingerClass\obj\Debug\netcoreapp3.1\ConsoleAppSingerClass.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ConsoleAppSingerClass\ConsoleAppSingerClass\obj\Debug\netcoreapp3.1\ConsoleAppSingerClass.AssemblyInfo.cs
+C:\Users\User\source\repos\ConsoleAppSingerClass\ConsoleAppSingerClass\obj\Debug\netcoreapp3.1\ConsoleAppSingerClass.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConsoleAppSingerClass\ConsoleAppSingerClass\obj\Debug\netcoreapp3.1\ConsoleAppSingerClass.dll
+C:\Users\User\source\repos\ConsoleAppSingerClass\ConsoleAppSingerClass\obj\Debug\netcoreapp3.1\ConsoleAppSingerClass.pdb
+C:\Users\User\source\repos\ConsoleAppSingerClass\ConsoleAppSingerClass\obj\Debug\netcoreapp3.1\ConsoleAppSingerClass.genruntimeconfig.cache

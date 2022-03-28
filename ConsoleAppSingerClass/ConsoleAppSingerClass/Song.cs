@@ -51,27 +51,7 @@ namespace ConsoleAppSingerClass
                 }
             }
         }
-        public string Singer
-        {
-            get
-            {
-                return _Name;
-
-            }
-            set
-            {
-                if (value.Length <= 100)
-                {
-                    _Name = value;
-                }
-                else
-                {
-                    Console.WriteLine("NameS valid deyil");
-                }
-            }
-
-
-        }
+        public string Singer{ get ; set; }
 
         private int[] Ratings = new int[0];
         public void AddRating(int rating)
